@@ -1,0 +1,1 @@
+Sesión: sdf (ID: 01, Tipo: taller)Sesión: lll (ID: 02, Tipo: charla)Sesión: palo (ID: 04, Tipo: taller)Sesión: Paipa (ID: 01, Tipo: taller)Sesión: Agua (ID: 02, Tipo: charla)Sesión: Sugamuxi (ID: 03, Tipo: panel)
